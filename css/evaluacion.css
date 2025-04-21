@@ -31,7 +31,7 @@ body {
     right: 55%;
     color: white;
     font-size: 100px;
-    font-family:Arial, Helvetica, sans-serif
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 .container1 p{
@@ -40,5 +40,22 @@ body {
     right: 62%;
     color: white;
     font-size: 20px;
-    font-family:Arial, Helvetica, sans-serif
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.container2{
+    margin-top: 40px;
+}
+
+
+.container2 p{
+    text-align: center;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.container3 {
+    margin-right: 30px;
 }
