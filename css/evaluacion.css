@@ -24,6 +24,23 @@ body {
 
 }
 
+#b2{
+    margin-top: 10px;
+    color: white;
+    border-color: rgb(47, 219, 219);
+    background-color: rgb(47, 219, 219);
+    width: 200px;
+    height: 50px;
+}
+
+.container1 form{
+    color: white;
+    text-align: left;
+    position: absolute;
+    top:45%;
+    right: 20%;
+}
+
 .container1 h1{
     position: absolute;
     top:10%;
